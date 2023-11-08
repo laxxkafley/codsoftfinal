@@ -1,0 +1,54 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #8B4513; /* Retro color (Saddle Brown) */
+  font-family: 'Oxygen', sans-serif;
+}
+
+/* Retro color scheme for the header */
+.bg-retro {
+  background-color: #8B4513 !important; /* Saddle Brown */
+  color: #fff;
+}
+
+/* Update the call button styles and position */
+#call-btn {
+  display: none; /* Hide the call button */
+}
+
+/* Reduce the font size for the span text */
+.buddha span,
+.island span {
+  font-size: 1.5em;
+}
+
+/* Style for the text overlay */
+.text-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  background-color: #D2B48C; /* Tan */
+  opacity: 0.8;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.text-content {
+  font-size: 1.5em;
+  color: #8B4513; /* Saddle Brown */
+  padding: 10px;
+  border: 2px solid #8B4513; /* Saddle Brown */
+  border-radius: 10px;
+}
+
+
+
+.buddha img,
+.island img {
+  max-width: 400px;
+  height: 400px; /* You can adjust this value to control the height */
+  display: block;
+}
