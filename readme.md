@@ -1,1 +1,2 @@
-I created a portfolio, calculator as part of remote web development traning process.
+I created a portfolio, calculator and a landingPage as part of a one-month remote web development internship.
+ 
